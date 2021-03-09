@@ -6,7 +6,7 @@ import time
 user_name = input("Phone, email, username ? > ")
 user_password = input("Password ? > ")
 
-PATH = "D:\\Coding Nerds\\RFC\\edgedriver\\msedgedriver.exe"
+PATH = "Change me!"
 driver = webdriver.Edge(PATH)
 driver.get("http://www.twitter.com/login")
 
