@@ -20,3 +20,5 @@ Be sure to modify the path on this program with the path of your installed webdr
 <h2><b>*** IMPORTANT NOTICE ***</b></h2>
 Please download the latest version of your webdriver from time to time. Selenium needs update-to-date webdriver to work. If your webdriver version doesn't match your browser version, the program will fail.
 
+## Additional Notice,
+<b>This project is still under built so expect a bug. Also note that interacting with the automated software can lead this program to crash!.</b>
