@@ -7,7 +7,7 @@ The Twitter Auto Login is a Python Automatic Bot that is made out of selenium. T
 => <b>Latest Python Version from the official website [here.](https://www.python.org/downloads/release/python-392/)</b></br>
 => <b>Selenium Library installed on Machine. Install Guidelines if you are a newbie are [here.](https://pythonspot.com/selenium-install/#:~:text=Selenium%20install.%20Selenium%20is%20a%20web%20automation%20tool.,the%20selenium%20module%20and%20the%20web%20driver%20installed.)</b> </br>
 => <b>[Webdriver](https://developer.mozilla.org/en-US/docs/Web/WebDriver) for your browser.</b> </br>
-...This are the links to the download page of the webdriver that you use on your browser.
+...These are the links to the download page of the webdriver that you use on your browser.
 1. [Firefox](https://github.com/mozilla/geckodriver/releases/tag/v0.29.0)
 2. [Chrome](https://chromedriver.chromium.org/)
 3. [Internet Explorer](https://www.microsoft.com/en-us/download/details.aspx?id=44069)
