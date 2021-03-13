@@ -10,14 +10,21 @@ import re
 # The first step is to give the username and the password.
 user_name = input("Phone, email, username ? > ")
 user_password = input("Password ? > ")
-
+ 
+################################                        ################################ 
+################################ CHANGE THE CODE BELOW! ################################
+################################			################################ 
 
 
 # I am using Windows so my driver application is a .exe file located at this directory.
 # I added a reference link to show you how to link your webdriver with python selenium program.
-
 PATH = "D:\\Coding Nerds\\RFC\\edgedriver\\msedgedriver.exe"
 driver = webdriver.Edge(PATH)
+
+################################                        ################################ 
+################################ CHANGE THE CODE ABOVE! ################################
+################################			################################ 
+
 
 #Main target is the twitter home. Since it will spawn a new browser window, the twitter servers will redirect us to the /login page.
 TWITTER_HOMEPAGE = "https://twitter.com/home"
@@ -49,6 +56,8 @@ main = WebDriverWait(driver , 20).until(
 	expected_conditions.presence_of_element_located((By.XPATH, '//*[@id="react-root"]/div/div/div[2]/main/div/div/div[2]/form/div/div[3]/div/div/span'))
 )
 main.click()
+
+
 
 #############                #############
 ############# EXPECTION ZONE #############
