@@ -2,6 +2,9 @@
 
 The Twitter Auto Login is a Python Automatic Bot that is made out of selenium. This Bot was live tested and posted on [Twitter](https://twitter.com/Black_2_white/status/1368723215367905284)
 
+## How does it work?
+The program takes 3 values. A password and a username for the user and then it requires a 3rd value which is our tweet message. 
+
 ## Requirements
 
 => <b>Latest Python Version from the official website [here.](https://www.python.org/downloads/release/python-392/)</b></br>
