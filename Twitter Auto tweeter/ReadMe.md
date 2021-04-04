@@ -21,7 +21,7 @@ The program takes 3 values. A password and a username for the user and then it r
 ## Before use,
 Be sure to modify the path on this program with the path of your installed webdriver. If you don't know how to connect the selenium installed directory with this program, Recommend that you check out this [video](https://www.youtube.com/watch?v=Xjv1sY630Uc) by Tech with Tim.</br>
 Picture for reference below 🔽
-![Picture](https://github.com/Code-Blender-7/Automation-Programs/blob/main/Images%20for%20Readme.md/1.png)
+![Picture](https://github.com/Code-Blender-7/Automation-Programs/blob/main/Twitter%20Auto%20tweeter/Images%20for%20Readme.md/1.png?raw=true)
 <h2><b>*** IMPORTANT NOTICE ***</b></h2>
 Please download the latest version of your webdriver from time to time. Selenium needs update-to-date webdriver to work. If your webdriver version doesn't match your browser version, the program will fail.
 
