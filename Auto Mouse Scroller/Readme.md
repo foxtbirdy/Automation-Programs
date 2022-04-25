@@ -15,6 +15,16 @@ Pyautogui documentation by [Al Sweigart](https://twitter.com/AlSweigart).
 When I was reading a book in my laptop, I always had to scroll up and down the page. Just a few days after my test ended, I was reading a book called "The Pragmatic Programmer" while also having a sack of burrito on my other hand. <br> 
 Turns out that having a burrito on a hand is uncomfortable while having to scroll the pages of the pdf. That lead me to the idea of Auto Mouse Scroller Project. I wanted to create a automated program that allowed me to read a book while also not ***even touching the mouse***. The outcome was beyond my expectation. That's what lead the project program to be here.
 
+# Requirements
+This program requires you to install the programming language of python on your machine. Please install it [here](https://www.python.org/). The wiki page will help you to setup this langauge on your machine. Afterwards, install these libraries,
+
+```diff
+pyautogui
+
+# you may need these additional as well. In case they are not built-in
+keyboard
+```
+
 ## How does it work?
 The program at first requires an index from 1 to 4 to select the scrolling speed. After that, a alert window will come up notifying that the program will begin in 3 seconds after the 'OK' is clicked. The user needs to align the mouse position on the tab for the scrolling to work. 
 Once the scrolling starts to work, it can be stopped using three ways. 
